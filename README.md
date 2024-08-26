@@ -3,6 +3,7 @@
 
 ### Architecture
 
+![architecture](https://github.com/woraweetwpsk/04-project-terraform-gcp/blob/main/images/architecture.png?raw=true)
 
 **Tools & Technologies**
 
@@ -13,10 +14,13 @@
 - BigQuery
 - Looker Studio
 
+### DAG in AIRFLOW UI
+
+![dag](https://github.com/woraweetwpsk/04-project-terraform-gcp/blob/main/images/dag.png?raw=true)
+
 ### Overview
 
 
 ### Dashboard
 
-
-### Folder Structure
+![dashboard](https://github.com/woraweetwpsk/04-project-terraform-gcp/blob/main/images/dashboard.png?raw=true)
